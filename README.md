@@ -2,7 +2,7 @@
 
 📌 **Project Title:** Blood Bank Management System  
 📚 **Course:** Object Oriented Programming (OOP)  
-🎓 **Semester:** 1st Semester  
+🎓 **Semester:** 2nd Semester  
 👩‍💻 **Submitted by:** Mahnoor
 
 ---
