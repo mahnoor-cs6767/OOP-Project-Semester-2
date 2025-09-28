@@ -40,7 +40,6 @@ The system provides the following functionalities:
 |------------------------|-------------|
 | `Project Report.pdf`   | Detailed explanation of the project objectives, design, and results |
 | `Project Code`   | Java implementation of the Blood Bank Management System |
-| `Presentation Slides`  | Summary of the project flow and GUI demonstration |
 
 ---
 
